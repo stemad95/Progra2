@@ -1,0 +1,10 @@
+
+Descripción:
+Dados dos nombres de archivo existentes, 
+los compara línea por línea mostrando como salida los
+números de línea donde los archivos son diferentes, en 
+caso de ser idénticos (por ejemplo cuando se usa
+el mismo archivo) tanto para nombre-archivo-1 como 
+para nombre-archivo-2, entonces no debería imprimirse 
+nada (pues no hay ninguna línea en la cual difieran).
+
