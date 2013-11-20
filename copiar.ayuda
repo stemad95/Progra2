@@ -1,0 +1,6 @@
+
+Descripción:
+Los argumentos del programa son, el nombre del archivo
+que será copiado nombre-archivo-original y el nombre
+que tendrá el nuevo archivo por crear nombre-archivo-nuevo.
+
