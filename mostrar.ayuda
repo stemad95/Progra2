@@ -1,0 +1,6 @@
+
+Descripción:
+Este programa recibe como parámetro el nombre de un archivo
+(nombre-archivo), cuyo contenido será mostrado
+en la pantalla (salida estándar).
+
