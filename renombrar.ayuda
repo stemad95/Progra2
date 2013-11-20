@@ -1,0 +1,11 @@
+
+Descripción:
+Los argumentos del programa son los nombres de
+los archivos involucrados, el archivo que debe existir
+en la ruta disponible al prompt será nombre-archivo-original
+y se le asignará por nombre el que se haya ingresado como 
+argumento nombre-archivo-nuevo. Al igual que ocurre en el 
+caso del comando borrar debe lanzarse un mensaje de 
+verificación cada vez que se utilice este comando, para
+omitirlo se puede utilizar el argumento --forzado.
+
