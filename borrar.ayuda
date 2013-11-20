@@ -1,0 +1,13 @@
+
+Descripción:
+Este programa recibe como parámetro el nombre de 
+un archivo ( nombre-archivo) y lo elimina del
+sistema, pero antes debe lanzar una pregunta para 
+verificar que el usuario está seguro de desea eliminar
+el archivo por completo, si la respuesta es afirmativa 
+procede con la eliminación y en caso contrario
+finaliza su ejecución (vuelve al «prompt»). 
+El argumento opcional --forzado tiene como objetivo
+omitir la pregunta de verificación, en otras palabras 
+elimina el archivo sin solicitar la confirmación.
+
